@@ -14,10 +14,10 @@ A modern and responsive landing page for an online learning platform. Built usin
 - **CSS3** (Flexbox & Grid)  
 
 ## 📸 Screenshot  
-![Landing Page Preview](./resources/screenshot.png)  
+![Landing Page Preview](./resources/Screenshot.png)  
 
 ## 🔗 Live Demo  
-[View Project](YOUR_GITHUB_PAGES_LINK)  
+[View Project](https://ahmoooos.github.io/Online-Learning-Landing-Page/)  
 
 ## 📂 How to Run Locally  
 1. Clone this repository:  
